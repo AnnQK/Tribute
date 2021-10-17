@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Montserrat:wght@100&display=swap');
+main {
+    /**font-family: 'Cinzel', serif;;
+    font-family: 'Montserrat', sans-serif;**/
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+    padding: 25px;
+
+}
+img {
+    height: auto;
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+#title {
+    font-family: 'Cinzel', serif;;
+    font-size: 1.5em;
+    text-align: center;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    
+}
+
+#img-div {
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+#img-caption {
+    text-align: center;
+    
+}
+ul {
+    
+    text-align: left;
+    width: auto;
+    padding: 25px;
+    background-color: white;
+}
+li {
+    margin: 15px 0;
+}
+blockquote {
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+#end {
+    text-align: center;
+}
