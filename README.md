@@ -1,2 +1,4 @@
 # Tribute page
-simple projest (html, css)
+### For freeCodaCamp course
+---
+##### HTML and CSS
