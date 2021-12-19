@@ -1,4 +1,4 @@
 # Tribute page
-### For freeCodaCamp course
+### For freeCodeCamp course
 ---
 ##### HTML and CSS
